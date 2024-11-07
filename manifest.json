@@ -1,6 +1,4 @@
 {
     "version": "1.0.2",
-    "rar_parts": [
-        "https://github.com/Hugogabriel24/update_optodata/raw/refs/heads/main/Optodata.rar"
-    ]
+    "rar": "https://github.com/Hugogabriel24/update_optodata/raw/refs/heads/main/Optodata.rar",
 }
