@@ -2,7 +2,7 @@
   "planos": [
     {
       "nome": "Plano Mensal",
-      "valor": 50.00
+      "valor": 1.0
     },
     {
       "nome": "Plano Trimestral",
