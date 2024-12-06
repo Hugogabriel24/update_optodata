@@ -2,11 +2,11 @@
   "planos": [
     {
       "nome": "Plano Mensal",
-      "valor": 1.0
+      "valor": 1.00
     },
     {
       "nome": "Plano Trimestral",
-      "valor": 2.0
+      "valor": 2.00
     },
     {
       "nome": "Plano Semestral",
@@ -14,7 +14,7 @@
     },
     {
       "nome": "Plano Anual",
-      "valor": 480.00
+      "valor": 2.00
     }
   ]
 }
