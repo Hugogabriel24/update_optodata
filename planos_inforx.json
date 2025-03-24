@@ -1,0 +1,20 @@
+{
+  "planos": [
+    {
+      "nome": "Plano Mensal",
+      "valor": 1.00
+    },
+    {
+      "nome": "Plano Trimestral",
+      "valor": 2.00
+    },
+    {
+      "nome": "Plano Semestral",
+      "valor": 5.00
+    },
+    {
+      "nome": "Plano Anual",
+      "valor": 2.00
+    }
+  ]
+}
