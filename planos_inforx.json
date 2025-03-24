@@ -2,19 +2,19 @@
   "planos": [
     {
       "nome": "Plano Mensal",
-      "valor": 1.00
+      "valor": 99.00
     },
     {
       "nome": "Plano Trimestral",
-      "valor": 2.00
+      "valor": 295.00
     },
     {
       "nome": "Plano Semestral",
-      "valor": 5.00
+      "valor": 590.00
     },
     {
       "nome": "Plano Anual",
-      "valor": 2.00
+      "valor": 1099.00
     }
   ]
 }
